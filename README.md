@@ -30,6 +30,18 @@
 - **[html2pdf.js](https://github.com/eKoopmans/html2pdf)** for PDF generation
 
 ---
+## 🛠️ How to Use
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ritam-910/Resume-Generator.git
+   cd Resume-Generator
+   ```
+2. **Open `index.html` in your browser.**
+3. **Fill in your details** in the provided sections.
+4. **Click "Generate Resume"** to download your resume as a PDF!
+
+---
 
 ## 📁 Project Structure
 ```
@@ -39,6 +51,26 @@ Resume-Generator/
 ├── script.js       # PDF generation logic
 └── README.md       # This file
 ```
+## 📦 Dependencies
+
+- [html2pdf.js](https://github.com/eKoopmans/html2pdf) (served via CDN)
+
+---
+
+## 🙌 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to [open an issue](https://github.com/Ritam-910/Resume-Generator/issues) or submit a pull request.
+
+---
+
+## 🪪 License
+
+This project is open source. See [LICENSE](LICENSE) for details.
+
+---
+
+> Made with ❤️ by [Ritam-910](https://github.com/Ritam-910)
 
 ---
 
