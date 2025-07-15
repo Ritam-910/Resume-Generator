@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Resume Generator</title>
+  <script src="https://raw.githack.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <button onclick="generateResume()">Generate Resume</button>
+  <form class="resumeForm">
+    <h1>Resume Generator</h1>
+    <div class="section1">
+      <h2>Personal Information</h2>
+      <input type="text" id="fullName" placeholder="Full Name" required />
+      <input type="email" id="email" placeholder="Email" required />
+      <input type="tel" id="phone" placeholder="Phone Number" />
+    </div>
+    <div class="section2">
+      <h2>Education</h2>
+      <input type="text" id="school" placeholder="School/University" />
+      <input type="text" id="degree" placeholder="Degree" />
+      <input type="text" id="eduYear" placeholder="Year of Passing" />
+    </div>
+    <div class="section3">
+      <h2>Work Experience</h2>
+      <input type="text" id="company" placeholder="Company" />
+      <input type="text" id="role" placeholder="Role/Position" />
+      <textarea id="workDesc" rows="2" placeholder="Description"></textarea>
+    </div>
+    <div class="section4">
+      <h2>Skills</h2>
+      <textarea id="skills" rows="2" placeholder="Comma separated"></textarea>
+    </div>
+    <div class="section5">
+      <h2>Projects</h2>
+      <textarea id="projectDesc" rows="2" placeholder="Describe your projects"></textarea>
+    </div>
+  </form>
+</body>
+</html> 

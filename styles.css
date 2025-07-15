@@ -1,0 +1,118 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(180deg, #ffb36b 0%, #ff7e5f 40%, #ff6a88 70%, #6a3093 100%);
+  color: #222;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+h1 {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  margin-left: 0;
+  margin-top: 0px;
+  letter-spacing: 2px;
+  color: black;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.18);
+}
+
+form {
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 700px;
+  margin: 30px auto;
+  background: rgba(255,255,255,0.18);
+  padding: 32px 0 24px 0;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.18);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1.5px solid rgba(255,255,255,0.25);
+  transition: box-shadow 0.3s;
+  text-align: center;
+}
+
+form:hover {
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.22);
+}
+
+.section {
+  font-family: 'Segoe UI', sans-serif;
+  margin-bottom: 28px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.18);
+}
+.section:last-child {
+  font-family: 'Segoe UI', sans-serif;
+  border-bottom: none;
+}
+
+.section h2 {
+  text-align: center;
+}
+
+form > h1, form > button {
+  margin-left: 32px;
+}
+
+input, textarea {
+  font-family: 'Segoe UI', sans-serif;
+  width: 85%;
+  margin-bottom: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1.5px solid #e0e7ef;
+  font-size: 1rem;
+  background: rgba(255,255,255,0.7);
+  box-shadow: 0 1px 4px rgba(31,38,135,0.04);
+  transition: border 0.2s, box-shadow 0.2s;
+  display: block;
+}
+input:focus, textarea:focus {
+  font-family: 'Segoe UI', sans-serif;
+  border: 1.5px solid #ff7e5f;
+  outline: none;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(255,126,95,0.08);
+}
+
+button {
+  font-family: 'Segoe UI', sans-serif;
+  display: block;
+  margin: 28px auto 0 auto;
+  margin-bottom: 20px;
+  padding: 12px 36px;
+  background: whitesmoke;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(255,126,95,0.10);
+  letter-spacing: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+button:hover {
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 4px 16px rgba(255,126,95,0.18);
+  transform: translateY(-2px) scale(1.03);
+}
+
+.main-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+form {
+  /* keep your existing form styles */
+  flex-shrink: 0;
+}
+
