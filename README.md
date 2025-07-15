@@ -12,12 +12,6 @@
 
 ---
 
-## 🌈 Preview
-
-![Preview Screenshot](https://your-screenshot-link.com/resume-preview.png) <!-- Replace with your actual screenshot URL -->
-
----
-
 ## 🔧 Features
 
 - 📝 Simple form-based input
