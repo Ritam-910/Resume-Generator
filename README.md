@@ -32,4 +32,14 @@
 ---
 
 ## 📁 Project Structure
+```
+Resume-Generator/
+├── index.html      # Main HTML file (form & layout)
+├── styles.css      # Modern, glassy style
+├── script.js       # PDF generation logic
+└── README.md       # This file
+```
+
+---
+
 
