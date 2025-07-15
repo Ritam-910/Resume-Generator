@@ -1,90 +1,41 @@
-# Resume Generator
+# 💼 Resume Generator 🚀
 
-![Resume Generator Banner](https://user-images.githubusercontent.com/182394840/placeholder-banner.png)
-
-A visually appealing and easy-to-use web app to quickly create beautiful resumes. Fill out your information and generate a polished PDF in one click!
-
----
-
-## 🚀 Features
-
-- **Modern, User-Friendly UI:** Clean and colorful design with glassmorphism effects for an elegant look.
-- **Resume Sections:** 
-  - Personal Information
-  - Education
-  - Work Experience
-  - Skills
-  - Projects
-- **Instant PDF Generation:** One-click export to PDF using [html2pdf.js](https://github.com/eKoopmans/html2pdf).
-- **Responsive Design:** Works well on both desktop and mobile devices.
-- **No Backend Required:** 100% client-side – your data stays on your device.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 🖥️ Demo
+### ✨ Create Stunning PDFs of Your Resume — Straight from the Browser!
 
-<img src="https://user-images.githubusercontent.com/182394840/placeholder-demo.gif" alt="Demo screenshot" width="700"/>
+📄 This **Resume Generator** helps you build and export a beautifully formatted resume in PDF format with just one click. Designed with an eye-catching gradient background and glassmorphism-style UI, it's simple, stylish, and super handy for developers and students!
 
 ---
 
-## 🛠️ How to Use
+## 🌈 Preview
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ritam-910/Resume-Generator.git
-   cd Resume-Generator
-   ```
-2. **Open `index.html` in your browser.**
-3. **Fill in your details** in the provided sections.
-4. **Click "Generate Resume"** to download your resume as a PDF!
+![Preview Screenshot](https://your-screenshot-link.com/resume-preview.png) <!-- Replace with your actual screenshot URL -->
+
+---
+
+## 🔧 Features
+
+- 📝 Simple form-based input
+- 🎨 Glassmorphic modern UI with gradient background
+- 📄 One-click PDF resume export using `html2pdf`
+- 📱 Responsive and minimal design
+- 🧠 Built with vanilla JS — no frameworks!
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3** (custom styled with gradients and effects)
+- **JavaScript**
+- **[html2pdf.js](https://github.com/eKoopmans/html2pdf)** for PDF generation
 
 ---
 
 ## 📁 Project Structure
 
-```
-Resume-Generator/
-├── index.html      # Main HTML file (form & layout)
-├── styles.css      # Modern, glassy style
-├── script.js       # PDF generation logic
-└── README.md       # This file
-```
-
----
-
-## ✨ Screenshots
-
-| Form Page | PDF Export |
-|-----------|------------|
-| ![Form Screenshot](https://user-images.githubusercontent.com/182394840/placeholder-form.png) | ![PDF Screenshot](https://user-images.githubusercontent.com/182394840/placeholder-pdf.png) |
-
----
-
-## 🎨 Design Highlights
-
-- Vibrant background gradient with a glassy, frosted effect form.
-- Stylish form controls with focus and hover effects.
-- Responsive and accessible fonts for a professional look.
-
----
-
-## 📦 Dependencies
-
-- [html2pdf.js](https://github.com/eKoopmans/html2pdf) (served via CDN)
-
----
-
-## 🙌 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to [open an issue](https://github.com/Ritam-910/Resume-Generator/issues) or submit a pull request.
-
----
-
-## 🪪 License
-
-This project is open source. See [LICENSE](LICENSE) for details.
-
----
-
-> Made with ❤️ by [Ritam-910](https://github.com/Ritam-910)
