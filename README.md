@@ -5,6 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2166be54-b717-47ed-a41b-a368d1c310a5/deploy-status)](https://app.netlify.com/projects/soft-treacle-06ca6f/deploys)
 
 ### ✨ Create Stunning PDFs of Your Resume — Straight from the Browser!
 
