@@ -12,8 +12,8 @@
 
 ## 🚀✨  Deployment
 
-[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://soft-treacle-06ca6f.netlify.app/)
-[![Production](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge&logo=rocket)](https://soft-treacle-06ca6f.netlify.app/)
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://resume-generator-ritam.netlify.app/)
+[![Production](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge&logo=rocket)](https://resume-generator-ritam.netlify.app/)
 
 > Your Resume Generator is automatically and securely deployed with Netlify!  
 > Click the buttons above to see the live app or check the latest deployment status.
