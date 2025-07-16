@@ -5,7 +5,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2166be54-b717-47ed-a41b-a368d1c310a5/deploy-status)](https://app.netlify.com/projects/soft-treacle-06ca6f/deploys)
+
+---
+
+## 🚀✨  Deployment
+
+[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://soft-treacle-06ca6f.netlify.app/)
+[![Production](https://img.shields.io/badge/Status-LIVE-brightgreen?style=for-the-badge&logo=rocket)](https://soft-treacle-06ca6f.netlify.app/)
+
+> Your Resume Generator is automatically and securely deployed with Netlify!  
+> Click the buttons above to see the live app or check the latest deployment status.
+
+---
 
 ### ✨ Create Stunning PDFs of Your Resume — Straight from the Browser!
 
@@ -74,5 +87,3 @@ This project is open source. See [LICENSE](LICENSE) for details.
 > Made with ❤️ by [Ritam-910](https://github.com/Ritam-910)
 
 ---
-
-
