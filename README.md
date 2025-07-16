@@ -6,7 +6,7 @@
 
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2166be54-b717-47ed-a41b-a368d1c310a5/deploy-status)](https://app.netlify.com/projects/soft-treacle-06ca6f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2166be54-b717-47ed-a41b-a368d1c310a5/deploy-status)](https://app.netlify.com/projects/resume-generator-ritam/deploys)
 
 ---
 
